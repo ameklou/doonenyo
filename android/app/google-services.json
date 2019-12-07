@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "914250501728",
+    "firebase_url": "https://cohesion-sociale.firebaseio.com",
+    "project_id": "cohesion-sociale",
+    "storage_bucket": "cohesion-sociale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914250501728:android:c917eed7b4cff82c13fd05",
+        "android_client_info": {
+          "package_name": "tg.doonenyo.cohesion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914250501728-a1rgduusb7vun2rbnpi58s1c3tf0ie5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tg.doonenyo.cohesion",
+            "certificate_hash": "886024ee89bc1b4804cb044a3b8cb9ace16f056e"
+          }
+        },
+        {
+          "client_id": "914250501728-3uig7a35tnr7319nkmge7r81kvsnmd6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tg.doonenyo.cohesion",
+            "certificate_hash": "764ee04f1905f002fe2cbf2a8f61ce04311f88ee"
+          }
+        },
+        {
+          "client_id": "914250501728-ae03lgg13llo5jn1gp3ccrdvp724fs93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSeFLx6n9zFpvxeTXW2qpGMfoF0w7-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914250501728-ae03lgg13llo5jn1gp3ccrdvp724fs93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
